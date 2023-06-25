@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHUzhekiNg
-- 👀 I’m interested in Robotics & Artificial Intelligence
+- 👀 I’m interested in Robotics and Computer Vision, especially in 3DCV
 - 🌱 I’m currently learning in Shanghai University
 - 📫 QQ: 2035451658
 
